@@ -2,5 +2,4 @@
 
 Integrantes:
 
-André Lemos
-
+André Souza - André Lemos
